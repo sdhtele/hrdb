@@ -241,7 +241,7 @@ botcmds = [
     ]
 
 def main():
-    # bot.set_my_commands(botcmds)
+    bot.set_my_commands(botcmds)
     start_cleanup()
     # Check if the bot is restarting
     if ospath.isfile(".restartmsg"):
