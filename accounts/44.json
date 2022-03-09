@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turing-mark-337223",
+  "private_key_id": "c7ec9f595de6ab4c83363622036b46da18361dff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDE37wNOawtMAhm\ng2FA5KQ0RF20Rr6IjItyLR0uuZGUtkcCvnielV5kCYuW4Qmb91KOs+EA39F72grg\n0HWfYIzfXtOqz3B6085jwh+pB0vOo8sxuLwyW5dbhR6hvWjvPA9kTXqoq0wRWAWJ\nL8QN/PvyD9BAXwFv3ZBYWjgy1FmI3FQPV1Z2EbC9P1Ze2K2+KpQASMMXftt3EB8F\nv8ZOTmWukJja1Io0zlbmVSZ1PdZhYEV9SSwaMucyPU8hF76dLz2sh6Dsu62iZ5V7\nlBc8KDbiSge9FsrooiuHQm7y9VKrW/zpKrrIzAN6OpVgPAmq++ZnPNW81SMOemVC\nGJN8Sa/VAgMBAAECggEAAq8wm6HjmAUi5C+akfLcI034VMbZ07ejh3BtM1p6jUNz\n/JSsxTAbsUj+XdWz1sF8nxn9nCWxGpt1O63+oJLwMMkp9oGtaAX/IdXp2Rk9SR7A\nx0Ix0gz00h239nQZnBjJS/CQ1tUTwdvITYp4xZ5jWrWo/QEJSRAavFL/QlV/YrHk\n5B4FWUFUbXem9idkPvLpIl+RLoHiudb12dzFTMwxeSF75JEKPJ7W+fkj4JXFdnns\nqyFL2HYbrW85DCeu5SKAg5JomIihqjVVu1W4L0sPIjaH5+5wazo6+YXEC4U36I6h\nSzGeG+aNYH6J0Q9WgPDXCx/mcQ+iUdkogHoR8ovdIQKBgQD2/oTlySRVD8aPa1tQ\nHbN0tckgsjhw5DZ/3ZUTzdzwGLZebx5WeVXE28EZdsuo9rLrFrLRKRVc2ynwOoRb\n4kPheg5+AkcTpSvUTv9kJJs23s1k8x2DcxHE27CXN9SIV9wKK6U8SpRlLjnKwhvQ\nRbNBVJDDhaMdzeyy7SMDydQxtQKBgQDMDWKyM7Eq14nkKCBDJgrzFzUbrXlwjJbp\nPZ5R42cLWV5En9LoOIxhxiuGnWE8slrmHn+J7Gzt27lMsi2SrGLCPKppbpqlu7k0\njk+OG5A4WYdwyK5hvpNTzxjIWIZk7SQr/iA0sYw4OPnZv9z6Hx2IdU+7U15pk06L\nl/PjUWTZoQKBgD6jFTjg5aHculIsu595qMT0ROlRyRZ4CYoru16mWl1ZJwaTz3HG\nm4Ws5S97/PIAfic4PmjkrlI6EkylymMy4lwQBBTYpwXIYXEaB5Jx5hroLdZoARgQ\n2nS98e6nbfKVtWuu3dyIXVG7g1R0HXGX+3mZ5IxxG4i3bEuD79lKGdHxAoGBAI3d\nkIzMm5RpnhjePO/ydxJjRC0mApRZamJm0LemHnIpg/y6EWwaRJ+Fo6VHrd8BMWlk\nMs+1bFZCuSW1izG6YD8i5me+2g334d/EQVNPnolO1Xd4TqTuVoeiKFzCD04EAW4E\nlGeOOSqtkift2LidAW9qADEA2VcVbzpmPs4APNmBAoGBAOaKjSyXUSF6mV8/wJLn\nNv/thyT8iFmjkw/EAj4WKpxkADo9Nij2Wmyoovrcw72B0pfl4FOmAYb+5H9DBXg2\nwENnNkqVkGBFaYNChEt7Nu46P9f/mP+HPjhhYGfqmEGl1wHz1N9tZQWivL0wX4PJ\nVjtfgersy1O8ppDT7VdCibgj\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-vvfemddsczb-sttsm9476wgart@turing-mark-337223.iam.gserviceaccount.com",
+  "client_id": "108206809199702458653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-vvfemddsczb-sttsm9476wgart%40turing-mark-337223.iam.gserviceaccount.com"
+}
