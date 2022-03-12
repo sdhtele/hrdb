@@ -382,7 +382,7 @@ def _mirror(bot, message, isZip=False, extract=False, isQbit=False, isLeech=Fals
         if content_type is None or match(r'text/html|text/plain', content_type):
             try:
                 is_gdtot = is_gdtot_link(link)
-                if uptobox.com(link)
+                if "uptobox" in link:
                     sendMessage("Generating uptobox.com direct link. Tunggu sebentar...", bot, message)
                     link = direct_link_generator(link)
                 else:
