@@ -11,6 +11,7 @@ for original authorship. """
 import requests
 import re
 
+from time import sleep
 from base64 import b64decode
 from urllib.parse import urlparse, unquote
 from json import loads as jsnloads
